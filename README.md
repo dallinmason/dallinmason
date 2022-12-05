@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm currently working on creating a blog tutorial to help fellow statisticians to understand difficult concepts. 
 I'm learning more about data science and how to contribute to the statistical community efficiently. 
-Ask me about questions you might have about R, SAS, SQL, Python, Linux, or C++! I have basic to intermediate understanding of all of these languages!
+Ask me about questions you might have about R, SAS, SQL, Python, Linux, AWK, or C++! I have basic to intermediate understanding of all of these languages!
 Fun fact about me is that I ran a 4:15 mile in high school and still enjoy running to this day!
 <!--
 **dallinmason/dallinmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
